@@ -1,6 +1,6 @@
 # EchoMusicPlayer
 
-It is an iteractive Music Player developed on Android Studios
+It is an interactive Music Player developed on Android Studios
 using Kotlin.
 
 It has all the basic functionalities 
