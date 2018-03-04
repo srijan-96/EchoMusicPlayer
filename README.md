@@ -6,4 +6,4 @@ using Kotlin.
 It has all the basic functionalities 
 of a traditional Music Player
 
-App screens can be found unfer the folder name graphics.
+App screens can be found unfer the folder name Screens
